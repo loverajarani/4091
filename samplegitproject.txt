@@ -1,3 +1,0 @@
-to init git and add data
-to revert data and commit
-all commands
